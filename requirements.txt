@@ -1,0 +1,8 @@
+hyperopt==0.2.7
+matplotlib==3.7.2
+numpy==1.23.5
+pandas==2.2.2
+PyWavelets==1.4.1
+scikit_learn==1.2.1
+seaborn==0.13.2
+torch==2.0.1+cu118

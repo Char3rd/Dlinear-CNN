@@ -1,0 +1,9 @@
+{
+    "D_kernel_size": 15,
+    "batch_size": 56,
+    "cnn_kernel_size": 14,
+    "l1": 56,
+    "learning_rate": 0.001041802722475251,
+    "loss": "mae",
+    "seq_len": 48
+}
